@@ -6,6 +6,8 @@
 ## dataset in the current working directory, with name "CourseProjectOutput.txt."
 
 run_analysis <- function(){
+
+    require(dplyr)
     
     ##--Read in all files to frames and set names------------:##
 
