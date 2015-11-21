@@ -8,7 +8,7 @@ Data are measurements taken from 30 volunteers (SubjectID), performing six activ
 
 ###Name : (Type, unit) Description
 
-**SubjectID : (Int) ID number of Volunteer performing the measurements (range = 1-30).
+**SubjectID** : (Int) ID number of Volunteer performing the measurements (range = 1-30).
 
 **ActivityLevel** : (Factor) Type of activity being performed by volunteer (6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
